@@ -17,5 +17,6 @@ References for this project:
 10. Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher D. Manning.2020. Stanza: A Python Natural Language Processing Toolkit for Many HumanLanguages. InProceedings of the 58th Annual Meeting of the Association for Com-putational Linguistics: System Demonstrations.   https://nlp.stanford.edu/pubs/qi2020stanza.pdf
 11. C. Yang, K. H. Lin, and H. Chen. 2007. Emotion Classification Using Web BlogCorpora. InIEEE/WIC/ACM International Conference on Web Intelligence (WI’07).275–278.  https://doi.org/10.1109/WI.2007.51
 12. Python for NLP: Movie Sentiment Analysis using Deep Learning in Keras https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
+14. Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
 13. Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc. https://www.nltk.org/
 
